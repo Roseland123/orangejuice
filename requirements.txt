@@ -1,6 +1,2 @@
-streamlit
-pandas
-numpy
-base64
+streamlit==1.26.0
 streamlit_option_menu
-time
